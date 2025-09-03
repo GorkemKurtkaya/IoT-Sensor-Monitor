@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="iot.png" alt="ShopStack" width="256" />
+  <br/>
+  <b>Modern e-ticaret uygulaması</b>
+</div>
+
+
+
 # 🏭 IoT Sensör Takip Sistemi (NestJS + MQTT + Next.js + Socket.io + Supabase)
 
 Bu proje, **fabrikalardaki IoT sensörlerinden gelen verileri MQTT protokolü üzerinden toplayan**, bu verileri **gerçek zamanlı yayınlayan**, **kullanıcı ve şirket yönetimi sağlayan**, **loglama ve güvenlik mekanizmaları içeren** kapsamlı bir sistemdir.
