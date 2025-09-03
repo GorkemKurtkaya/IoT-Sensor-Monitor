@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="iot.png" alt="ShopStack" width="256" />
+  <img src="iot.png" alt="Iot" width="256" />
   <br/>
-  <b>Modern e-ticaret uygulaması</b>
 </div>
 
 
